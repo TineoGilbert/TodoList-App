@@ -1,4 +1,16 @@
-# TodoApp
+# Todo List App
+
+Basic Todo List
+
+## Used Tool
+- Angular 11 :anger:
+
+![](List1.png)  
+
+![](List2.png)
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
